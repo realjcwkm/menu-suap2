@@ -1,0 +1,31 @@
+.pokemon{
+    border: 1px solid black;
+    border-radius: 20px;
+
+    margin-left: 20px;
+    margin-bottom: 10px;
+    background-color: #EEE;
+
+    display: flex;
+    width: 500px;
+}
+
+.rounded-foto{
+    background-color: white;
+    border-radius: 50%;
+}
+
+.foto-perfil{
+    width: 128px;
+}
+
+.info-pokemon{
+    margin-left: 20px;
+}
+
+.titulo{
+    margin: 5px 0;
+    font-size: 36px;
+    font-weight: bold;
+}
+
